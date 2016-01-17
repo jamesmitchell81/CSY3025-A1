@@ -9,12 +9,9 @@ public class Person
 {
   public String name = "";
   public ArrayList<Person> parents = new ArrayList<Person>();
-  public Person predecessor;
-  public String spouse;
   public LocalDate birthDate = LocalDate.now();
   public LocalDate deathDate = LocalDate.now();
   public Place birthPlace; // = new Place();
-  public String url;
   public int age;
 
   private LocalDate setDate(String dateString)

@@ -13,12 +13,14 @@ public class Application
   public static void main(String... args)
   {
     FamilyTreeBuilder royalFamilyTree = new FamilyTreeBuilder();
-    // Person person = royalFamilyTree.find("http://dbpedia.org/page/Elizabeth_II");
-    Person person = royalFamilyTree.find("http://dbpedia.org/page/Edward_IV_of_England");
+    Person person = royalFamilyTree.find("http://dbpedia.org/page/Elizabeth_II");
+    // Person person = royalFamilyTree.find("http://dbpedia.org/page/Edward_IV_of_England");
 
     FamilyTreePrinter ftp = new FamilyTreePrinter();
-    ftp.print(person, "./-htmlpages/page-2.html");
     ftp.printJSON(person, "/Users/jm/Sites/AI/familytree.json");
+
+    BirthPlacePrinter bpp = new BirthPlacePrinter();
+    bpp.printJSON(person, "/Users/jm/Sites/AI/birthplaces.json");
 
   }
 
