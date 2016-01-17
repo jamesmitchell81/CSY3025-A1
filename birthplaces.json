@@ -1,0 +1,997 @@
+[[
+  {
+    "name": "Elizabeth II",
+    "birthDate": "1926-04-21",
+    "long": -0.116667,
+    "lat": 51.5,
+    "age": 89
+  },
+  {
+    "birthPlace": "Sandringham House",
+    "name": "King George VI",
+    "birthDate": "1895-12-14",
+    "long": 0,
+    "lat": 52,
+    "age": 56
+  },
+  {
+    "name": "King George V",
+    "birthDate": "1865-06-03",
+    "long": -0.135833,
+    "lat": 51.505001,
+    "age": 70
+  },
+  {
+    "birthPlace": "The Yellow Palace",
+    "name": "Alexandra of Denmark",
+    "birthDate": "1844-12-01",
+    "long": 12.5926,
+    "lat": 55.682899,
+    "age": 80
+  },
+  {
+    "name": "Christian IX of Denmark",
+    "birthDate": "1818-04-08",
+    "long": 9.25,
+    "lat": 55.166668,
+    "age": 87
+  },
+  {
+    "name": "Louise Of Hesse-Kassel",
+    "birthDate": "1817-09-07",
+    "long": 9.5,
+    "lat": 51.316666,
+    "age": 81
+  },
+  {
+    "birthPlace": "Copenhagen",
+    "name": "Princess Louise Charlotte of Denmark",
+    "birthDate": "1789-10-30",
+    "long": 12.568334,
+    "lat": 55.676109,
+    "age": 74
+  },
+  {
+    "birthPlace": "Copenhagen",
+    "name": "Frederick of Denmark and Norway",
+    "birthDate": "1753-10-11",
+    "long": 12.568334,
+    "lat": 55.676109,
+    "age": 52
+  },
+  {
+    "name": "Duchess Sophia Frederica of Mecklenburg-Schwerin",
+    "birthDate": "1758-08-24",
+    "long": 0,
+    "lat": 0,
+    "age": 36
+  },
+  {
+    "name": "Landgrave Frederick",
+    "birthDate": "1747-09-11",
+    "long": 9.5,
+    "lat": 51.316666,
+    "age": 89
+  },
+  {
+    "name": "Mary of Great Britain",
+    "birthDate": "1723-03-05",
+    "long": -0.116667,
+    "lat": 51.5,
+    "age": 48
+  },
+  {
+    "name": "Caroline Wilhelmina of Brandenburg-Ansbach",
+    "birthDate": "1683-03-01",
+    "long": 13.383333,
+    "lat": 52.516666,
+    "age": 54
+  },
+  {
+    "name": "John Frederick, Margrave of Brandenburg-Ansbach",
+    "birthDate": "1654-10-18",
+    "long": 0,
+    "lat": 0,
+    "age": 31
+  },
+  {
+    "birthPlace": "Friedewald",
+    "name": "Eleonore Erdmuthe",
+    "birthDate": "1662-04-13",
+    "long": 7.96117,
+    "lat": 50.711449,
+    "age": 34
+  },
+  {
+    "name": "Louise Juliane of Erbach",
+    "birthDate": "1603-01-01",
+    "long": 0,
+    "lat": 0,
+    "age": 67
+  },
+  {
+    "name": "King George II",
+    "birthDate": "1683-11-09",
+    "long": 0,
+    "lat": 0,
+    "age": 76
+  },
+  {
+    "birthPlace": "Hanover",
+    "name": "King George I",
+    "birthDate": "1660-06-07",
+    "long": 9.716666,
+    "lat": 52.366665,
+    "age": 262
+  },
+  {
+    "birthPlace": "The Hague",
+    "name": "Sophia of the Palatinate",
+    "birthDate": "1630-10-14",
+    "long": 4.316667,
+    "lat": 52.083332,
+    "age": 83
+  },
+  {
+    "birthPlace": "Falkland Palace",
+    "name": "Elizabeth of Bohemia",
+    "birthDate": "1596-08-19",
+    "long": 3,
+    "lat": 56,
+    "age": 65
+  },
+  {
+    "name": "James VI, King of Scots",
+    "birthDate": "1566-06-19",
+    "long": 0,
+    "lat": 0,
+    "age": 58
+  },
+  {
+    "birthPlace": "Leeds",
+    "name": "Stuart, Henry, Lord Darnley",
+    "birthDate": "1545-12-07",
+    "long": -1.549167,
+    "lat": 53.799721,
+    "age": 21
+  },
+  {
+    "birthPlace": "Dumbarton Castle",
+    "name": "Stewart, Matthew, 4th Earl of Lennox",
+    "birthDate": "1516-09-21",
+    "long": -4.5628,
+    "lat": 55.936,
+    "age": 54
+  },
+  {
+    "name": "Mary, Queen of Scots",
+    "birthDate": "1542-12-08",
+    "long": -3.601111,
+    "lat": 55.9785,
+    "age": 44
+  },
+  {
+    "name": "James V, King of Scots",
+    "birthDate": "1512-04-10",
+    "long": -3.601111,
+    "lat": 55.9785,
+    "age": 30
+  },
+  {
+    "birthPlace": "Stirling Castle",
+    "name": "James IV",
+    "birthDate": "1473-03-17",
+    "long": -3.948889,
+    "lat": 56.12389,
+    "age": 40
+  },
+  {
+    "birthPlace": "St. Andrews Castle",
+    "name": "James III",
+    "birthDate": "1451-07-10",
+    "long": -2.79,
+    "lat": 56.34,
+    "age": 36
+  },
+  {
+    "birthPlace": "Grave",
+    "name": "Mary of Guelders",
+    "birthDate": "1434-01-01",
+    "long": 5.733333,
+    "lat": 51.766666,
+    "age": 29
+  },
+  {
+    "birthPlace": "Palace of Holyroodhouse",
+    "name": "James 02 Of Scotland",
+    "birthDate": "1430-10-16",
+    "long": 3,
+    "lat": 55,
+    "age": 29
+  },
+  {
+    "name": "James I",
+    "birthDate": "1394-01-01",
+    "long": -3.4638,
+    "lat": 56.069401,
+    "age": 43
+  },
+  {
+    "birthPlace": "Scone Palace",
+    "name": "Robert III",
+    "birthDate": "1337-08-14",
+    "long": 3,
+    "lat": 56,
+    "age": 68
+  },
+  {
+    "birthPlace": "Rowallan Castle",
+    "name": "Mure, Elizabeth",
+    "birthDate": "2016-01-17",
+    "long": -4.488639,
+    "lat": 55.65,
+    "age": 0
+  },
+  {
+    "birthPlace": "Dunfermline",
+    "name": "Anabella Drummond",
+    "birthDate": "1350-01-01",
+    "long": -3.4393,
+    "lat": 56.071918,
+    "age": 51
+  },
+  {
+    "name": "Alice FitzAlan",
+    "birthDate": "1350-01-01",
+    "long": -0.553611,
+    "lat": 50.85611,
+    "age": 66
+  },
+  {
+    "birthPlace": "Upholland",
+    "name": "Thomas Holland",
+    "birthDate": "2016-01-17",
+    "long": -2.728,
+    "lat": 53.541,
+    "age": 0
+  },
+  {
+    "birthPlace": "Richmond Palace",
+    "name": "Tudor, Margaret",
+    "birthDate": "1489-11-28",
+    "long": -0.310219,
+    "lat": 51.460388,
+    "age": 51
+  },
+  {
+    "birthPlace": "Palace of Westminster",
+    "name": "Elizabeth of York",
+    "birthDate": "1466-02-11",
+    "long": 0,
+    "lat": 51,
+    "age": 37
+  },
+  {
+    "birthPlace": "Rouen",
+    "name": "King Edward IV",
+    "birthDate": "1442-04-28",
+    "long": 1.1,
+    "lat": 49.439999,
+    "age": 40
+  },
+  {
+    "birthPlace": "Conisbrough Castle",
+    "name": "Richard of Conisburgh, 3rd Earl of Cambridge",
+    "birthDate": "1375-07-20",
+    "long": -1.226389,
+    "lat": 53.484165,
+    "age": 40
+  },
+  {
+    "birthPlace": "Kings Langley",
+    "name": "York, Edmund Of Langley, 1st Duke Of",
+    "birthDate": "1341-06-05",
+    "long": -0.45692,
+    "lat": 51.715591,
+    "age": 61
+  },
+  {
+    "birthPlace": "Windsor Castle",
+    "name": "King Edward III",
+    "birthDate": "1312-11-13",
+    "long": -0.604167,
+    "lat": 51.483334,
+    "age": 64
+  },
+  {
+    "birthPlace": "Caernarfon Castle",
+    "name": "King Edward II",
+    "birthDate": "1284-04-25",
+    "long": -4.2769,
+    "lat": 53.1393,
+    "age": 43
+  },
+  {
+    "name": "King Edward I",
+    "birthDate": "1239-06-18",
+    "long": 0,
+    "lat": 0,
+    "age": 68
+  },
+  {
+    "birthPlace": "Aix-en-Provence",
+    "name": "Eleanor of Provence",
+    "birthDate": "1223-01-01",
+    "long": 5.445429,
+    "lat": 43.526302,
+    "age": 68
+  },
+  {
+    "birthPlace": "Aiguebelle",
+    "name": "Thomas I, Count of Savoy",
+    "birthDate": "1178-01-01",
+    "long": 6.3061,
+    "lat": 45.543301,
+    "age": 55
+  },
+  {
+    "name": "Eleanor Of Castile",
+    "birthDate": "1241-01-01",
+    "long": 0,
+    "lat": 0,
+    "age": 49
+  },
+  {
+    "name": "Saint Ferdinand, T.O.S.F.",
+    "birthDate": "1201-08-05",
+    "long": 0,
+    "lat": 0,
+    "age": 50
+  },
+  {
+    "name": "Isabella Of France",
+    "birthDate": "1295-01-01",
+    "long": 2.350833,
+    "lat": 48.856667,
+    "age": 63
+  },
+  {
+    "birthPlace": "Seine-et-Marne",
+    "name": "Philip the Fair",
+    "birthDate": "1268-01-01",
+    "long": 3,
+    "lat": 48,
+    "age": 46
+  },
+  {
+    "birthPlace": "Poissy",
+    "name": "Philip III the Bold",
+    "birthDate": "1245-04-30",
+    "long": 2.0456,
+    "lat": 48.929401,
+    "age": 40
+  },
+  {
+    "birthPlace": "Poissy",
+    "name": "Saint Louis IX",
+    "birthDate": "1214-04-25",
+    "long": 2.0456,
+    "lat": 48.929401,
+    "age": 56
+  },
+  {
+    "name": "Blanche of Castile",
+    "birthDate": "1188-03-04",
+    "long": 0,
+    "lat": 0,
+    "age": 64
+  },
+  {
+    "birthPlace": "Soria",
+    "name": "Alfonso VIII",
+    "birthDate": "2016-01-17",
+    "long": -2.466667,
+    "lat": 41.766666,
+    "age": 0
+  },
+  {
+    "birthPlace": "Toledo",
+    "name": "Sancho III of Castile",
+    "birthDate": "1134-01-01",
+    "long": -4.024445,
+    "lat": 39.856667,
+    "age": 24
+  },
+  {
+    "birthPlace": "Barcelona",
+    "name": "Berengaria of Barcelona",
+    "birthDate": "1116-01-01",
+    "long": 2.183333,
+    "lat": 41.383335,
+    "age": 33
+  },
+  {
+    "birthPlace": "Rodez",
+    "name": "Ramon Berenguer III, Count of Barcelona",
+    "birthDate": "1082-01-01",
+    "long": 2.575,
+    "lat": 44.350601,
+    "age": 49
+  },
+  {
+    "birthPlace": "Domfront",
+    "name": "Eleanor of England",
+    "birthDate": "1162-10-13",
+    "long": -0.7564,
+    "lat": 48.519402,
+    "age": 52
+  },
+  {
+    "birthPlace": "Le Mans Ville",
+    "name": "Henry II",
+    "birthDate": "1133-03-05",
+    "long": 0.1984,
+    "lat": 48.007702,
+    "age": 56
+  },
+  {
+    "birthPlace": "Selby",
+    "name": "Henry I",
+    "birthDate": "1068-01-01",
+    "long": -1.070309,
+    "lat": 53.781788,
+    "age": 67
+  },
+  {
+    "birthPlace": "Arras",
+    "name": "Baldwin V, Count of Flanders",
+    "birthDate": "1012-08-19",
+    "long": 2.7808,
+    "lat": 50.2897,
+    "age": 55
+  },
+  {
+    "name": "William the Conqueror",
+    "birthDate": "1024-01-01",
+    "long": -0.366667,
+    "lat": 49.133301,
+    "age": 63
+  },
+  {
+    "birthPlace": "Île-de-France",
+    "name": "Simon I de Montfort",
+    "birthDate": "1025-01-01",
+    "long": 2.5,
+    "lat": 48.5,
+    "age": 62
+  },
+  {
+    "birthPlace": "Alpes-de-Haute-Provence",
+    "name": "Margaret Of Provence",
+    "birthDate": "1221-01-01",
+    "long": 6,
+    "lat": 44,
+    "age": 74
+  },
+  {
+    "birthPlace": "Aiguebelle",
+    "name": "Thomas I, Count of Savoy",
+    "birthDate": "1178-01-01",
+    "long": 6.3061,
+    "lat": 45.543301,
+    "age": 55
+  },
+  {
+    "birthPlace": "Montpellier",
+    "name": "James I of Aragon",
+    "birthDate": "1208-02-02",
+    "long": 3.8772,
+    "lat": 43.6119,
+    "age": 68
+  },
+  {
+    "name": "Antioch, Alice of",
+    "birthDate": "2016-01-17",
+    "long": 38.799999,
+    "lat": 37.150002,
+    "age": 0
+  },
+  {
+    "name": "Baldwin II",
+    "birthDate": "1060-01-01",
+    "long": 2.350833,
+    "lat": 48.856667,
+    "age": 71
+  },
+  {
+    "name": "Neville, Cecily, Duchess of York",
+    "birthDate": "1415-05-03",
+    "long": -1.801944,
+    "lat": 54.590832,
+    "age": 80
+  },
+  {
+    "name": "Joan Beaufort, Countess Of Westmorland",
+    "birthDate": "2016-01-17",
+    "long": 0,
+    "lat": 0,
+    "age": 0
+  },
+  {
+    "birthPlace": "Ghent",
+    "name": "John of Gaunt",
+    "birthDate": "1340-03-06",
+    "long": 3.733333,
+    "lat": 51.049999,
+    "age": 58
+  },
+  {
+    "birthPlace": "Windsor Castle",
+    "name": "King Edward III",
+    "birthDate": "1312-11-13",
+    "long": -0.604167,
+    "lat": 51.483334,
+    "age": 64
+  },
+  {
+    "birthPlace": "Caernarfon Castle",
+    "name": "King Edward II",
+    "birthDate": "1284-04-25",
+    "long": -4.2769,
+    "lat": 53.1393,
+    "age": 43
+  },
+  {
+    "name": "Eleanor Of Castile",
+    "birthDate": "1241-01-01",
+    "long": 0,
+    "lat": 0,
+    "age": 49
+  },
+  {
+    "name": "Saint Ferdinand, T.O.S.F.",
+    "birthDate": "1201-08-05",
+    "long": 0,
+    "lat": 0,
+    "age": 50
+  },
+  {
+    "birthPlace": "Burgos",
+    "name": "Berengaria of Castile",
+    "birthDate": "1180-06-01",
+    "long": -3.706667,
+    "lat": 42.349998,
+    "age": 66
+  },
+  {
+    "birthPlace": "Soria",
+    "name": "Alfonso VIII",
+    "birthDate": "2016-01-17",
+    "long": -2.466667,
+    "lat": 41.766666,
+    "age": 0
+  },
+  {
+    "birthPlace": "Toledo",
+    "name": "Sancho III of Castile",
+    "birthDate": "1134-01-01",
+    "long": -4.024445,
+    "lat": 39.856667,
+    "age": 24
+  },
+  {
+    "name": "Blanche of Navarre",
+    "birthDate": "1133-01-01",
+    "long": 0,
+    "lat": 0,
+    "age": 23
+  },
+  {
+    "birthPlace": "Domfront",
+    "name": "Eleanor of England",
+    "birthDate": "1162-10-13",
+    "long": -0.7564,
+    "lat": 48.519402,
+    "age": 52
+  },
+  {
+    "birthPlace": "Aquitaine",
+    "name": "Eleanor Of Aquitaine",
+    "birthDate": "1122-01-01",
+    "long": 0,
+    "lat": 44.583332,
+    "age": 82
+  },
+  {
+    "birthPlace": "Le Mans Ville",
+    "name": "Henry II",
+    "birthDate": "1133-03-05",
+    "long": 0.1984,
+    "lat": 48.007702,
+    "age": 56
+  },
+  {
+    "birthPlace": "Selby",
+    "name": "Henry I",
+    "birthDate": "1068-01-01",
+    "long": -1.070309,
+    "lat": 53.781788,
+    "age": 67
+  },
+  {
+    "name": "William the Conqueror",
+    "birthDate": "1024-01-01",
+    "long": -0.366667,
+    "lat": 49.133301,
+    "age": 63
+  },
+  {
+    "name": "Robert I, Duke Of Normandy",
+    "birthDate": "1000-06-22",
+    "long": 2.350833,
+    "lat": 48.856667,
+    "age": 35
+  },
+  {
+    "birthPlace": "Normandy",
+    "name": "Richard II, Duke Of Normandy",
+    "birthDate": "0963-08-23",
+    "long": 0,
+    "lat": 0,
+    "age": 63
+  },
+  {
+    "name": "Richard I, Duke Of Normandy",
+    "birthDate": "0933-08-28",
+    "long": 0,
+    "lat": 0,
+    "age": 63
+  },
+  {
+    "birthPlace": "Bayeux",
+    "name": "William I, Duke Of Normandy",
+    "birthDate": "0890-01-01",
+    "long": -0.7028,
+    "lat": 49.2794,
+    "age": 52
+  },
+  {
+    "birthPlace": "Brittany",
+    "name": "Sprota",
+    "birthDate": "2016-01-17",
+    "long": -3,
+    "lat": 48,
+    "age": 0
+  },
+  {
+    "birthPlace": "Dunfermline",
+    "name": "Matilda Of Scotland",
+    "birthDate": "1080-04-30",
+    "long": -3.4393,
+    "lat": 56.071918,
+    "age": 38
+  },
+  {
+    "name": "Malcolm III of Scotland",
+    "birthDate": "1031-03-26",
+    "long": -3.183333,
+    "lat": 55.950001,
+    "age": 62
+  },
+  {
+    "name": "Saint Margaret",
+    "birthDate": "2016-01-17",
+    "long": 19.049999,
+    "lat": 47.466667,
+    "age": 0
+  },
+  {
+    "name": "Edmund Ironside",
+    "birthDate": "0989-01-01",
+    "long": -0.116667,
+    "lat": 51.5,
+    "age": 27
+  },
+  {
+    "birthPlace": "Île-de-France",
+    "name": "Simon I de Montfort",
+    "birthDate": "1025-01-01",
+    "long": 2.5,
+    "lat": 48.5,
+    "age": 62
+  },
+  {
+    "name": "Isabella Of France",
+    "birthDate": "1295-01-01",
+    "long": 2.350833,
+    "lat": 48.856667,
+    "age": 63
+  },
+  {
+    "birthPlace": "Seine-et-Marne",
+    "name": "Philip the Fair",
+    "birthDate": "1268-01-01",
+    "long": 3,
+    "lat": 48,
+    "age": 46
+  },
+  {
+    "birthPlace": "Poissy",
+    "name": "Philip III the Bold",
+    "birthDate": "1245-04-30",
+    "long": 2.0456,
+    "lat": 48.929401,
+    "age": 40
+  },
+  {
+    "birthPlace": "Poissy",
+    "name": "Saint Louis IX",
+    "birthDate": "1214-04-25",
+    "long": 2.0456,
+    "lat": 48.929401,
+    "age": 56
+  },
+  {
+    "name": "Blanche of Castile",
+    "birthDate": "1188-03-04",
+    "long": 0,
+    "lat": 0,
+    "age": 64
+  },
+  {
+    "birthPlace": "Soria",
+    "name": "Alfonso VIII",
+    "birthDate": "2016-01-17",
+    "long": -2.466667,
+    "lat": 41.766666,
+    "age": 0
+  },
+  {
+    "birthPlace": "Toledo",
+    "name": "Sancho III of Castile",
+    "birthDate": "1134-01-01",
+    "long": -4.024445,
+    "lat": 39.856667,
+    "age": 24
+  },
+  {
+    "birthPlace": "Barcelona",
+    "name": "Berengaria of Barcelona",
+    "birthDate": "1116-01-01",
+    "long": 2.183333,
+    "lat": 41.383335,
+    "age": 33
+  },
+  {
+    "birthPlace": "Rodez",
+    "name": "Ramon Berenguer III, Count of Barcelona",
+    "birthDate": "1082-01-01",
+    "long": 2.575,
+    "lat": 44.350601,
+    "age": 49
+  },
+  {
+    "birthPlace": "Domfront",
+    "name": "Eleanor of England",
+    "birthDate": "1162-10-13",
+    "long": -0.7564,
+    "lat": 48.519402,
+    "age": 52
+  },
+  {
+    "birthPlace": "Le Mans Ville",
+    "name": "Henry II",
+    "birthDate": "1133-03-05",
+    "long": 0.1984,
+    "lat": 48.007702,
+    "age": 56
+  },
+  {
+    "birthPlace": "Selby",
+    "name": "Henry I",
+    "birthDate": "1068-01-01",
+    "long": -1.070309,
+    "lat": 53.781788,
+    "age": 67
+  },
+  {
+    "birthPlace": "Arras",
+    "name": "Baldwin V, Count of Flanders",
+    "birthDate": "1012-08-19",
+    "long": 2.7808,
+    "lat": 50.2897,
+    "age": 55
+  },
+  {
+    "name": "William the Conqueror",
+    "birthDate": "1024-01-01",
+    "long": -0.366667,
+    "lat": 49.133301,
+    "age": 63
+  },
+  {
+    "birthPlace": "Île-de-France",
+    "name": "Simon I de Montfort",
+    "birthDate": "1025-01-01",
+    "long": 2.5,
+    "lat": 48.5,
+    "age": 62
+  },
+  {
+    "birthPlace": "Alpes-de-Haute-Provence",
+    "name": "Margaret Of Provence",
+    "birthDate": "1221-01-01",
+    "long": 6,
+    "lat": 44,
+    "age": 74
+  },
+  {
+    "birthPlace": "Aiguebelle",
+    "name": "Thomas I, Count of Savoy",
+    "birthDate": "1178-01-01",
+    "long": 6.3061,
+    "lat": 45.543301,
+    "age": 55
+  },
+  {
+    "birthPlace": "Montpellier",
+    "name": "James I of Aragon",
+    "birthDate": "1208-02-02",
+    "long": 3.8772,
+    "lat": 43.6119,
+    "age": 68
+  },
+  {
+    "name": "Antioch, Alice of",
+    "birthDate": "2016-01-17",
+    "long": 38.799999,
+    "lat": 37.150002,
+    "age": 0
+  },
+  {
+    "name": "Baldwin II",
+    "birthDate": "1060-01-01",
+    "long": 2.350833,
+    "lat": 48.856667,
+    "age": 71
+  },
+  {
+    "birthPlace": "Valenciennes",
+    "name": "Philippa of Hainaut",
+    "birthDate": "1314-06-24",
+    "long": 3.5233,
+    "lat": 50.358101,
+    "age": 55
+  },
+  {
+    "birthPlace": "Grafton Regis",
+    "name": "Woodville, Elizabeth",
+    "birthDate": "1437-01-01",
+    "long": -0.8965,
+    "lat": 52.114498,
+    "age": 55
+  },
+  {
+    "birthPlace": "Kent",
+    "name": "Richard Woodville",
+    "birthDate": "2016-01-17",
+    "long": 0.73,
+    "lat": 51.189999,
+    "age": 0
+  },
+  {
+    "birthPlace": "Bar-le-Duc",
+    "name": "Mary of Guise",
+    "birthDate": "1515-11-22",
+    "long": 5.1603,
+    "lat": 48.7719,
+    "age": 44
+  },
+  {
+    "name": "Bourbon, Antoinette De",
+    "birthDate": "1493-12-25",
+    "long": 0,
+    "lat": 0,
+    "age": 89
+  },
+  {
+    "birthPlace": "Custines",
+    "name": "Guise, Claude, Duke of",
+    "birthDate": "1496-10-20",
+    "long": 6.1433,
+    "lat": 48.7925,
+    "age": 53
+  },
+  {
+    "birthPlace": "Upper Palatinate",
+    "name": "Frederick V",
+    "birthDate": "1596-08-26",
+    "long": 12.2,
+    "lat": 49.299999,
+    "age": 36
+  },
+  {
+    "birthPlace": "Delft",
+    "name": "Countess Louise Juliana",
+    "birthDate": "1576-03-31",
+    "long": 4.366667,
+    "lat": 52.016666,
+    "age": 67
+  },
+  {
+    "name": "Frederick IV, Elector Palatine",
+    "birthDate": "1574-03-05",
+    "long": 13.383333,
+    "lat": 52.516666,
+    "age": 36
+  },
+  {
+    "birthPlace": "Biebrich",
+    "name": "Princess Caroline of Nassau-Usingen",
+    "birthDate": "1762-04-04",
+    "long": 8.233334,
+    "lat": 50.049999,
+    "age": 61
+  },
+  {
+    "name": "Countess Caroline Felizitas of Leiningen-Dagsburg",
+    "birthDate": "1734-05-22",
+    "long": 8.125834,
+    "lat": 50,
+    "age": 75
+  },
+  {
+    "name": "Charles William, Prince of Nassau-Usingen",
+    "birthDate": "1735-11-09",
+    "long": 8.5375,
+    "lat": 50.334446,
+    "age": 67
+  },
+  {
+    "birthPlace": "Kensington Palace",
+    "name": "Queen Mary",
+    "birthDate": "1867-05-26",
+    "long": -0.188333,
+    "lat": 51.50528,
+    "age": 85
+  },
+  {
+    "name": "Teck, Prince Francis, Duke Of",
+    "birthDate": "1837-08-28",
+    "long": 0,
+    "lat": 0,
+    "age": 62
+  },
+  {
+    "birthPlace": "London",
+    "name": "Elizabeth Bowes-Lyon",
+    "birthDate": "1900-08-04",
+    "long": -0.1275,
+    "lat": 51.507221,
+    "age": 101
+  },
+  {
+    "birthPlace": "Belgravia",
+    "name": "Strathmore and Kinghorne, Cecilia Bowes-Lyon, Countess of",
+    "birthDate": "1862-09-11",
+    "long": -0.15453,
+    "lat": 51.497952,
+    "age": 75
+  },
+  {
+    "birthPlace": "Leicestershire",
+    "name": "Cavendish-Bentinck, Caroline",
+    "birthDate": "1831-01-01",
+    "long": -1.183333,
+    "lat": 52.716667,
+    "age": 87
+  },
+  {
+    "birthPlace": "Leicestershire",
+    "name": "Burnaby, Edwyn",
+    "birthDate": "1798-09-29",
+    "long": -1.183333,
+    "lat": 52.716667,
+    "age": 68
+  }
+]]

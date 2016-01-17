@@ -17,10 +17,10 @@ public class Application
     // Person person = royalFamilyTree.find("http://dbpedia.org/page/Edward_IV_of_England");
 
     FamilyTreePrinter ftp = new FamilyTreePrinter();
-    ftp.printJSON(person, "/Users/jm/Sites/AI/familytree.json");
+    ftp.printJSON(person, "/Users/jm/Sites/AI/CSY3025-A1/familytree.json");
 
     BirthPlacePrinter bpp = new BirthPlacePrinter();
-    bpp.printJSON(person, "/Users/jm/Sites/AI/birthplaces.json");
+    bpp.printJSON(person, "/Users/jm/Sites/AI/CSY3025-A1/birthplaces.json");
 
   }
 
